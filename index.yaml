@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dss-demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-14T11:07:35.490048925Z"
+    description: A Helm chart for Kubernetes
+    digest: 0df391145e743607b4f60a600079b51249babb38043873cc7519cb0c2e1503af
+    name: dss-demo
+    type: application
+    urls:
+    - https://github.com/DOME-Marketplace/demo-helm-charts/releases/download/dss-demo-0.1.0/dss-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-14T11:07:35.490058533Z"
