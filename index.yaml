@@ -3,6 +3,16 @@ entries:
   crl-demo:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-06-14T12:04:22.493462011Z"
+    description: A Helm chart for Kubernetes
+    digest: af1ff86e93714db9f23a8401ae76b7854d9c9ea263ba3481c01aab5ba89ab72e
+    name: crl-demo
+    type: application
+    urls:
+    - https://github.com/DOME-Marketplace/demo-helm-charts/releases/download/crl-demo-0.1.1/crl-demo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-06-14T11:10:50.782234286Z"
     description: A Helm chart for Kubernetes
     digest: bfa6800b1d918822df985952ef7ffbbcf42af56529dc889b0e10e399d4f4fa93
@@ -14,6 +24,16 @@ entries:
   dss-demo:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-06-14T12:04:22.632347484Z"
+    description: A Helm chart for Kubernetes
+    digest: bd58550aa46d0b2e418eb72e812538fdcb251635746bde10965d3c1dd4dd5280
+    name: dss-demo
+    type: application
+    urls:
+    - https://github.com/DOME-Marketplace/demo-helm-charts/releases/download/dss-demo-0.1.1/dss-demo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-06-14T11:07:35.490048925Z"
     description: A Helm chart for Kubernetes
     digest: 0df391145e743607b4f60a600079b51249babb38043873cc7519cb0c2e1503af
@@ -22,4 +42,4 @@ entries:
     urls:
     - https://github.com/DOME-Marketplace/demo-helm-charts/releases/download/dss-demo-0.1.0/dss-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-14T11:10:50.78225795Z"
+generated: "2024-06-14T12:04:22.632363674Z"
